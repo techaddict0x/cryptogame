@@ -1,0 +1,11 @@
+/*
+  Content-Security-Policy-Report-Only: default-src 'self'; connect-src *; style-src 'self' 'unsafe-inline' https://translate.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com https://translate.google.com https://www.gstatic.com; script-src 'self' 'unsafe-eval' https://www.google-analytics.com https://translate.googleapis.com; report-uri https://sentry.io/api/227657/security/?sentry_key=551f6a44d9a54cfe9c18e976685f8234
+  Feature-Policy: autoplay 'self'
+  Permissions-Policy: speaker=*, autoplay=(self)
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+
+/static/*
+  Cache-Control: public, max-age=14400
