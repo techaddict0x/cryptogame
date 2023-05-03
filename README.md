@@ -1,2 +1,2 @@
-# cryptogame
-Dice Roll crypto game
+# cryptogame #cryptogambling #cryptocasino
+Dice Roll crypto game gambling
